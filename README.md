@@ -11,7 +11,6 @@
 🎙 A Conversational Voice Controlled React News Application using Alan AI. 
 > Provides users with latest news on voice command making it possible to control the entire application on voice. Users can get news by any terms, sources, news channel, or any country eventually saving a lot of time.
 
-### ✨ [Live Demo](https://shubh73-inshorts.netlify.app/)
 
 <br/>
 
